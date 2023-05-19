@@ -1,2 +1,2 @@
-# Mouse_imprinting_evolution
-Repository for supplementary materials and scripts associated with the analysis of imprinted expression evolution in house mice
+# Evolution of imprinted expression in the mouse placenta
+This repository contains result tables and scripts associated with the studi on the evolution of imprinted expression in the mouse placenta.
