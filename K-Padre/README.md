@@ -8,6 +8,8 @@ support its assignation. To reduce reference bias, it is recommended to run K-pa
 each parental genome or pseudogenome as reference. The outputs of each run can be processed by k-reads to identify
 reads that consistently show evidence of the same parental origin in both alignments.
 
+!(./k_padre_pipeline.png)
+
 ### Generation of diagnostic variants file for k-padre
 To identify diagnostic variants, k-variant uses a VCF file containing variants unique to one parent with respect to 
 the other parent’s genome. In the diagram and in the example script below, parents are assigned the IDs P1 and P2 and
