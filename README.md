@@ -6,4 +6,4 @@ and DNA-mathylaiton
 based on informative variants.
 
 **HisatToTophat:** Is a python script design to modify the output of hisat2 alignments
-to include columns created by Tophat, required for the Moodtools pipeline.
+adding columns created by Tophat, required for the Moodtools pipeline.
